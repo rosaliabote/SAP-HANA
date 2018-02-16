@@ -80,6 +80,7 @@
         },
         "customURI": {
             "type": "string",
+            "defaultValue": "https://hbrinstallationmedium.blob.core.windows.net/hbrhanaarminstall",
             "metadata": {
                 "description": "URI where SAP bits are uploaded"
             }
